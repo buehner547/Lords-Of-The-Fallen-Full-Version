@@ -236,3 +236,6 @@ This repository serves as the official landing page for **Lords of the Fallen**.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Lords of the Fallen today!**
+
+---
+**Last updated:** 2026-09-08 16:53:48 UTC
