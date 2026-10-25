@@ -238,4 +238,4 @@ This repository serves as the official landing page for **Lords of the Fallen**.
 **Get the most recent version of Lords of the Fallen today!**
 
 ---
-**Last updated:** 2026-10-25 10:21:17 UTC
+**Last updated:** 2026-10-25 14:39:55 UTC
